@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋. This is hadze a.k.a Armin Hadzalic in real life
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 <!--
 **hadze/hadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
