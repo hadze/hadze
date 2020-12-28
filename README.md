@@ -7,7 +7,7 @@ In my free time I’m a passionate chessplayer and I like to read books (special
 My slogan is:
 ##### Ask | Learn | Share
 
-![GitHub Logo](/misc/hadze_logo.png)
+![GitHub Logo](https://github.com/hadze/misc/blob/master/hadze_logo.png)
 
 ---
 
