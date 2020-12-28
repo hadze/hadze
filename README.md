@@ -40,6 +40,7 @@ My slogan is:
 <p><img src="https://github-readme-stats.vercel.app/api?username=hadze&amp;show_icons=true" alt="GitHub Stats"></p>
 
 - 🔭 I’m currently working on a cool App...stay tuned
+- 🌱 I’m currently learning Docker/Kubernetes stuff
 
 
 <!--
