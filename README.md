@@ -27,7 +27,6 @@ My slogan is:
 </p>
 
 ## Stats
-<h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=hadze&amp;show_icons=true" alt="GitHub Stats"></p>
 
 - 🔭 I’m currently working on a cool App...stay tuned
