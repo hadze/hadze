@@ -27,6 +27,7 @@ My slogan is:
 </p>
 
 ## Stats
+![](https://visitor-badge.glitch.me/badge?page_id=hadze)
 <p><img src="https://github-readme-stats.vercel.app/api?username=hadze&amp;show_icons=true" alt="GitHub Stats"></p>
 
 - 🔭 I’m currently working on a cool App...stay tuned
