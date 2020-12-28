@@ -5,7 +5,8 @@ Hi! My name is Armin Hadzalic ( pronounced as h a d͡ʒ a l i t͡ʃ ). I am carr
 In my free time I’m a passionate chessplayer and I like to read books (specially the scientific literature). I enjoy keeping up with the technology development, studying programming languages and new technologies like the Internet of Things or Machine learning. Well, that free time is not often. I am coaching three times a week a B- and C-Junior football team in Nuremberg.
 
 My slogan is:
-##### Ask | Learn | Share ![GitHub Logo](https://github.com/hadze/misc/blob/master/hadze_logo.png)
+##### Ask | Learn | Share 
+![GitHub Logo](https://github.com/hadze/misc/blob/master/hadze_ok.jpeg)
 
 ---
 
