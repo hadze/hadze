@@ -1,6 +1,6 @@
-### Hi there 👋. This is hadze a.k.a Armin Hadzalic in real life
+# Hi there 👋. This is hadze a.k.a Armin Hadzalic in real life
 
-
+---
 
 <p>
   
