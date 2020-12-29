@@ -12,7 +12,9 @@ My slogan is:
 
 
 ## Contact
-<p align="left"><a href="https://www.twitter.com/hadze"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" style="min-width:100%;"></a><a href="https://www.linkedin.com/in/hadzalic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" style="max-width:100%;"></a><a href="https://www.xing.com/profile/Armin_Hadzalic"><img src="https://img.shields.io/badge/xing-%23006567.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" style="max-width:100%;"></a><a href="https://ahadzalic.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="25" style="max-width:100%;"></a><a href="https://www.meetup.com/de-DE/members/295859289/"><img src="https://img.shields.io/badge/meetup-%23ED1C40.svg?&style=for-the-badge&logo=medium&logoColor=white" height="25" style="max-width:100%;"></a></p>
+<p align="left">
+<a href="https://www.twitter.com/hadze" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a><a href="https://www.linkedin.com/in/hadzalic/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.xing.com/profile/Armin_Hadzalic" target="_blank"><img alt="xing" src="https://img.shields.io/badge/xing-%23006567.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a><a href="https://ahadzalic.medium.com" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" ></a><a href="https://www.meetup.com/de-DE/members/295859289/" target="_blank"><img alt="meetup"  src="https://img.shields.io/badge/meetup-%23ED1C40.svg?&style=for-the-badge&logo=medium&logoColor=white" ></a>
+</p>
 
 **Languages and Tools:**  
 <!--
