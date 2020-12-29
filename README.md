@@ -1,5 +1,5 @@
 # Hi there 👋. This is hadze a.k.a Armin Hadzalic in real life
-<img src = "https://i1.wp.com/www.hadzalic.de/wp-content/uploads/2020/11/pointcloud_class_party.gif?fit=300%2C156&ssl=1" >
+<img src = "https://i1.wp.com/www.hadzalic.de/wp-content/uploads/2020/11/pointcloud_class_party.gif" >
 
 Hi! My name is Armin Hadzalic (pronounced as **had͡ʒalit͡ʃ**). I am carrying over 15 years of experience in Hardware & Software Testing Industry. Currently I am working in Erlangen / Germany as a Software Developer on one of the biggest Automation Tools.
 
