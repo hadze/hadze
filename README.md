@@ -22,7 +22,6 @@ My slogan is:
 </a>
 <a href="https://www.meetup.com/de-DE/members/295859289/"><img src="https://img.shields.io/badge/meetup-%23ED1C40.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25> 
 </a>
-<a><img src="https://img.shields.io/apm/l/vim-mode" height=25></a> 
 </p>
 
 **Languages and Tools:**  
