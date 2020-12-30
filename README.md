@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/hadze/misc/blob/master/gitpresence/banner.gif)](www.hadzalic.de/about)
+[![Header](https://github.com/hadze/misc/blob/master/gitpresence/banner.gif)](https://www.hadzalic.de/about)
 
 # Hi there 👋. This is hadze a.k.a Armin Hadzalic in real life
 
