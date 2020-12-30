@@ -1,5 +1,4 @@
 # Hi there 👋. This is hadze a.k.a Armin Hadzalic in real life
-<img src = "https://media.giphy.com/media/poTiAMBtwKdQQEpK61/giphy.gif">
 
 Hi! My name is Armin Hadzalic (pronounced as **had͡ʒalit͡ʃ**). I am carrying over 15 years of experience in Hardware & Software Testing Industry. Currently I am working in Erlangen / Germany as a Software Developer on one of the biggest Automation Tools.
 
