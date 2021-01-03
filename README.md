@@ -16,7 +16,7 @@ My slogan is:
 
 ## Contact
 <p align="left">
-<a href="https://www.twitter.com/hadze" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a><a href="https://www.linkedin.com/in/hadzalic/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.xing.com/profile/Armin_Hadzalic" target="_blank"><img alt="xing" src="https://img.shields.io/badge/xing-%23006567.svg?&style=for-the-badge&logo=xing&logoColor=white" ></a><a href="https://ahadzalic.medium.com" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" ></a><a href="https://www.kaggle.com/hadzaga/account" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" ></a><a href="https://www.meetup.com/de-DE/members/295859289/" target="_blank"><img alt="meetup"  src="https://img.shields.io/badge/meetup-%23ED1C40.svg?&style=for-the-badge&logo=meetup&logoColor=white" ></a>
+<a href="https://www.twitter.com/hadze" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a><a href="https://www.linkedin.com/in/hadzalic/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://ahadzalic.medium.com" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" ></a><a href="https://www.kaggle.com/hadzaga/account" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" ></a><a href="https://www.meetup.com/de-DE/members/295859289/" target="_blank"><img alt="meetup"  src="https://img.shields.io/badge/meetup-%23ED1C40.svg?&style=for-the-badge&logo=meetup&logoColor=white" ></a><a href="https://www.xing.com/profile/Armin_Hadzalic" target="_blank"><img alt="xing" src="https://img.shields.io/badge/xing-%23006567.svg?&style=for-the-badge&logo=xing&logoColor=white" ></a>
 </p>
 
 **Languages and Tools:**  
@@ -31,7 +31,7 @@ My slogan is:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net-original.svg" alt=".NET" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="25" height="25" />
