@@ -11,6 +11,8 @@ My slogan is:
 ##### Ask | Learn | Share 
 ![GitHub Logo](https://github.com/hadze/misc/blob/master/hadze_ok.jpeg)
 
+btw: I'm not really looking like this guy above:) 
+
 ---
 
 
