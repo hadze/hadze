@@ -64,6 +64,7 @@ btw: I'm not really looking like this guy above:)
 
 - 🔭 I’m currently working on a cool App...stay tuned
 - 🌱 I’m currently learning Docker/Kubernetes stuff
+- 🌱 I’m currently preparing for [AWS Certified Solutions Architect](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
 
 <!--
