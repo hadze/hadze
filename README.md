@@ -5,7 +5,7 @@
 
 Hi! My name is Armin Hadzalic (pronounced as **had͡ʒalit͡ʃ**). I am carrying over 15 years of experience in Hardware & Software Testing Industry. Currently I am working in Erlangen / Germany as a Software Developer on one of the biggest Automation Tools.
 
-In my free time I’m a passionate chessplayer and I like to read books (specially the scientific literature). I enjoy keeping up with the technology development, studying programming languages and new technologies like the Internet of Things or Machine Learning. Well, that free time is not often. I am coaching three times a week a B- and C-Junior football team in Nuremberg.
+In my free time I’m a passionate chessplayer and I like to read books (specially the scientific literature). I enjoy keeping up with the technology development, studying programming languages and new technologies like the Internet of Things or Machine Learning. Well, that free time is not often. I am coaching three times a week a B-Junior football team in Nuremberg.
 
 My slogan is:
 ##### Ask | Learn | Share 
