@@ -62,7 +62,7 @@ btw: I'm not really looking like this guy above:)
 ![](https://visitor-badge.glitch.me/badge?page_id=hadze)
 <p><img src="https://github-readme-stats.vercel.app/api?username=hadze&amp;show_icons=true" alt="GitHub Stats"></p>
 
-- 🔭 I’m currently working on a cool App...stay tuned
+- 🔭 I’m currently learning Prompt-Engineering...stay tuned
 - 🌱 I’m currently learning Docker/Kubernetes stuff
 - 🌱 I’m currently preparing for [AWS Certified Solutions Architect](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
